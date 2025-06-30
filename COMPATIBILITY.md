@@ -125,3 +125,6 @@ This is a list of tested controllers. Please reach out to our Discord server if 
 
 ### Universal PCB Project
 - Universal PCB Firmware 29
+
+### Victrix
+- Victrix Pro FS with Touch Pad for PS4
