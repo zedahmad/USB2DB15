@@ -32,6 +32,7 @@
 #define VID_SHANWAN             0x2563 // Shenzhen ShanWan Technology Co., Ltd.
 #define VID_SONY                0x054c // Sony
 #define VID_UPCB                0x04D8 // Universal PCB Project
+#define VID_PDP                 0x0E6F // Performance Designed Products, LLC (Victrix)
 
 
 /****************
@@ -88,7 +89,7 @@
 #define PID_SONY_PS5_NA         0x0CE6 // PS5 Controller NA region
 #define PID_SONY_PSC	        0x0CDA // Playstation Classic Controller
 #define PID_UPCB                0x1529 // Universal PCB Project
-
+#define PID_PDP_PRO_FS_PS4      0x0207 // Victrix Pro FS with Touch Pad for PS4
 
 
 

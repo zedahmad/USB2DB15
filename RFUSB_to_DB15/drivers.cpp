@@ -195,6 +195,9 @@ void setupController(uint16_t vid, uint16_t pid, HIDController *controller) {
       if (pid == PID_UPCB) setupPS4(controller);
       break;
 
+    case VID_PDP:
+      if (pid == PID_PDP_PRO_FS_PS4) setupPS4(controller);
+      break;
     default:
 		  
 #ifndef RELEASE_MODE
